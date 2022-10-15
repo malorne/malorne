@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @malorne
-- 👀 I’m interested in new technologies
+- 👀 I’m interested in technologies
 - 🌱 I’m currently learning web-development
 - 📫 How to reach me malornecode@gmail.com
 
